@@ -3,5 +3,8 @@ This model I trained the model using Google Codelab environment to implement the
 #Export Model
 
 #Detect wildlife for Tiger and Lion
-
+# model 
+•	Hugging Face Model Link: https://huggingface.co/ITI107-2024S2/3907578Y
+#for testing 
 •	Hugging Face Space Link: https://huggingface.co/spaces/ITI107-2024S2/3907578Y
+
